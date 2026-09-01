@@ -1,0 +1,1 @@
+/Users/paulfenton/Projects/dataprune-core/target/debug/libdataprune_core.rlib: /Users/paulfenton/Projects/dataprune-core/src/common/mod.rs /Users/paulfenton/Projects/dataprune-core/src/crypto/mod.rs /Users/paulfenton/Projects/dataprune-core/src/lib.rs /Users/paulfenton/Projects/dataprune-core/src/protocol/mod.rs
